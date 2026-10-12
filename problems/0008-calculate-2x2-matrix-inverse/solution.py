@@ -9,7 +9,7 @@ def inverse_2x2(matrix: list[list[float]]) -> list[list[float]] | None:
    # return none if 0 if matrix is singular invertible
    if det == 0:
       return None
-    
+   # return the inverse calculation 1/det([d,-b],[-c, a])
    return [
       [d/det, -b/det],
       [-c/det, a/det]
