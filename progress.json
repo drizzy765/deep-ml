@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T22:09:03.618Z",
+  "generated_at": "2026-10-25T16:46:39.930Z",
   "items": {
     "problem:1101": {
       "kind": "problem",
@@ -153,7 +153,7 @@
       "url": "https://www.deep-ml.com/problems/81",
       "path": "problems/0081-poisson-distribution-probability-calculator",
       "first_solved_at": "2026-10-24T22:09:01.407Z",
-      "last_pushed_at": "2026-10-24T22:09:01.407Z",
+      "last_pushed_at": "2026-10-25T16:46:37.446Z",
       "language": "python",
       "lines": 9
     }
